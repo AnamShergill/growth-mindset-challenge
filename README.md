@@ -39,10 +39,6 @@ Created Datasweeper Sterling Integrator using Python and Streamlit where user ca
 
 Make sure you have Python installed (version 3.7 or later is recommended). Then, install the necessary dependencies:
 
-```bash
-pip install streamlit pandas openpyxl
-
-
 ## 🚀 Running the App
 
 Clone the repository:
@@ -98,4 +94,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 For questions or feedback, please reach out to anamzeeshanshergill@gmail.com .
+
+
+
 
