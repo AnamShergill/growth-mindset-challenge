@@ -1,0 +1,26 @@
+# Virtual environment files
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Log and temp files
+logs/
+*.log
+*.tmp
+
+# System files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Python dependencies
+.env
+*.env
