@@ -56,9 +56,11 @@ bash
 Copy
 Edit
 python -m venv venv
-# On Windows:
+
+## On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+
+## On macOS/Linux:
 source venv/bin/activate
 Run the application:
 
@@ -93,6 +95,12 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 ## 📝 License
 This project is licensed under the MIT License.
+
+## 🌍 Live Demo
+The app is successfully deployed on **Streamlit**! You can access it here:  
+
+👉 [Live App on Streamlit](https://growth-mindset-challenge-anamshergill.streamlit.app/)
+
 
 ## 📬 Contact
 For questions or feedback, please reach out to anamzeeshanshergill@gmail.com .
