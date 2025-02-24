@@ -9,8 +9,7 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Streamlit cache
-.streamlit/
+
 
 # Log and temp files
 logs/
