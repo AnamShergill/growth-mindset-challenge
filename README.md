@@ -42,3 +42,60 @@ Make sure you have Python installed (version 3.7 or later is recommended). Then,
 ```bash
 pip install streamlit pandas openpyxl
 
+
+## **🚀 Running the App**
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/AnamShergill/growth-mindset-challenge.git
+cd growth-mindset-challenge
+(Optional) Create and activate a virtual environment:
+
+bash
+Copy
+Edit
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+Run the application:
+
+bash
+Copy
+Edit
+streamlit run index.py
+Open your browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
+
+## **📂 Project Structure**
+index.py
+The main Streamlit application containing the data cleaning, visualization, and conversion functionalities.
+
+.streamlit/config.toml
+(Optional) A configuration file for customizing the Streamlit theme and other settings.
+
+README.md
+This file.
+
+## **🎨 Customization**
+You can customize the appearance and functionality of the app by editing the code. For example:
+
+Theme:
+Modify the .streamlit/config.toml file to change the color scheme.
+Data Cleaning:
+Add more data cleaning options as needed.
+Visualization:
+Expand the visualization options with additional chart types.
+
+## ***🤝 Contributing***
+Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
+
+## **📝 License**
+This project is licensed under the MIT License.
+
+## **📬 Contact**
+For questions or feedback, please reach out to anamzeeshanshergill@gmail.com .
+
